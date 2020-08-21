@@ -1,2 +1,2 @@
 # orizon-music-kit
-Programmatically created designs based on the following Dribbble design: https://cutt.ly/hfugumM
+Programmatically created designs based on the [this](https://cutt.ly/hfugumM) Dribbble design.
